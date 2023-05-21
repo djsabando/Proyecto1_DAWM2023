@@ -1,5 +1,5 @@
 # MI REPOSITORIO
-![Imagen de Douglas Sabando](./douglas.jepg)
+![Imagen de Douglas Sabando](./douglas.jpeg)
 
 Mi nombre es Douglas Sabando y soy un apasionado del fútbol y el conocimiento en general. Estudio Ciencias de la Computación y disfruto explorando el mundo de la tecnología y el desarrollo de software.
 
